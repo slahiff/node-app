@@ -7,8 +7,8 @@
       "test": "mocha --exit"
    },
    "dependencies": {
+      "constantinople": "^4.0.1",
       "express": "^4.17.1",
-      "jade": "^1.11.0",
       "mkdirp": "^1.0.4",
       "pug": "^2.0.4"
    },
